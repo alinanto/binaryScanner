@@ -5,4 +5,4 @@ Argument two is optional and it is the output log file path. If argument two is 
 the program will not save the output log file.
 
 ### Console output
-![sample console](https://github.com/alinanto/binaryScanner/blob/master/sample.PNG)
+![sample console](https://github.com/alinanto/binaryScanner/blob/master/Sample.PNG)
